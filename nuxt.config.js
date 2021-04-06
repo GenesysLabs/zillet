@@ -112,7 +112,8 @@ module.exports = {
   proxy: {
     '/zilliqa': 'https://api.viewblock.io/',
     '/zrc2': {
-      target: 'https://zrc2.zillet.io/',
+      //target: 'https://zrc2.zillet.io/',
+      target: 'https://tokens.carbontoken.info/',
       pathRewrite: {
         '^/zrc2/': '/'
       }

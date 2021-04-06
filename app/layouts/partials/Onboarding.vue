@@ -116,10 +116,10 @@ export default {
             </div>
             <div class="py-4 px-8 bg-gray-200 rounded mt-2">
               <p class="font-semibold mb-1">
-                Don't trust any free ETH
+                Don't trust any free ZIL
               </p>
               <p>
-                If they're giving away free ETH, it's not real. If they
+                If they're giving away free ZIL, it's not real. If they
                 email you saying they're us, it's not real. If they ask
                 for your private key, it's not real.
               </p>
